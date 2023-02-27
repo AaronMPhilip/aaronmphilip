@@ -1,0 +1,239 @@
+
+.bookify{
+font-size: 100px;
+text-align: center;
+background-color: black;
+color: white;
+font-family: fantasy;
+margin-top: -0.6%;
+margin-left: -0.7%;
+margin-right: -0.7%;
+padding-bottom: 1%;
+padding-top: 1%;
+
+
+}
+
+.bookify:hover { color: yellow;}
+
+ul{ margin-top: -5%;
+ margin-bottom: -3%;
+
+}
+
+.nav{ display: inline;
+padding: 1%;
+font-size: 20px;
+transition: font-size 0.5s;
+}
+
+
+.nav:hover{
+    color: rgb(12, 10, 10);
+    font-size: 25px;
+  
+}
+
+a{ color: black;
+    text-decoration: none;
+    
+}
+
+.login{
+color: black;
+background-color: white;
+
+    float: right;
+    padding: 1%;
+    font-size: 20px;
+    margin-top: -1%;
+    transition: font-size 0.5s;
+
+}
+.caption{
+  float: right;
+  margin-bottom: 10%;
+  padding: 15%;
+  margin-right: -85%;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.login:hover{
+   
+    padding: 1%;
+    color: black;
+    font-size: 25px;
+}
+
+.one{ padding-left: 5%;
+    font-size: 50px;
+    font-family:sans-serif;
+    background-color:rgb(250, 139, 158);
+    height:50px;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    margin-left: -1%;
+    margin-right: -1%
+} 
+.slogan {
+    background-color: rgb(250, 139, 158);
+    padding-top: 1%;
+    margin-top: -5%;
+    padding-left: 5%;
+    width: 700px;
+    font-size: 30px;
+    padding-right: 625px;
+    padding-bottom: 180px;
+    font-family: sans-serif;
+    margin-left: -1%;
+    margin-right: -1%
+}
+
+.blogs {
+    background-color:black ;
+    color: white;
+    margin-top: -2.5%;
+    font-size: 40px;
+    padding-left: 6%;
+    font-family: sans-serif;
+    text-decoration: dashed;
+    margin-left: -1%;
+    margin-right: -1%;
+    padding-top: 5%;
+}
+
+.Blogs {
+    text-decoration: underline;
+    
+ }
+.ebooks {
+    background-color:  rgb(250, 139, 158);
+    color: black;
+    margin-top: -3%;
+    font-size: 40px;
+    padding-left: 6%;
+    font-family: sans-serif;
+    text-decoration: dashed;
+    margin-left: -1%;
+    margin-right: -1%;
+    padding-top: 5%;
+    
+}
+.Ebooks{
+    text-decoration:underline  ;
+}
+ 
+ .money{font-size: 100px;
+text-align: center;
+}
+.amount{
+    font-size: 30px;
+    font-family: sans-serif;
+    line-break: loose;
+}
+
+br{ margin-left: -1%;
+    margin-right: -1%}
+
+.footer {
+    background-color:  #fa8b9e;
+    color: black;
+    margin-top: -3%;
+    font-size: 40px;
+    padding-left: 6%;
+    font-family: sans-serif;
+    text-decoration: dashed;
+    margin-left: -1%;
+    margin-right: -1%;
+    padding-top: 10%;
+    text-align: center;
+}
+
+.sell {
+   background-color: black;
+   padding: 2%;
+   padding-right: 5%;
+   padding-left: 5%;
+   color: white;
+   cursor:pointer;
+border-radius: 2px;
+width: 10px;
+}
+.person { float: right;
+margin-top: -5%;
+padding-right: 5%;}
+
+.pen{
+    float: right;
+    padding-right: 10%;
+}
+.ebookimg{
+    float: right;
+    padding-right: 10%;
+}
+
+.footerlogo{ 
+    font-family: fantasy;
+    font-size: 70px;
+    margin-top: -3%;
+    padding-top: 6%;
+    padding-left: 3%;
+    margin-left: -0.6%;
+    margin-right: -0.6%;
+   
+    background-color: black;
+    color: white;
+
+
+}
+
+.subscribe{
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+.grow{
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: -5.5%;
+    margin-left: -0.6%;
+    margin-right: -0.6%;
+    padding-left: 2.9%;
+    padding-bottom: 1%;
+    background-color: black;
+    color: white;
+}
+
+#email{
+    height: 20px;
+    width: 300px;
+    padding-bottom: 1.5%;
+    padding-top: 1.5%;
+    border-radius: 4px;
+    
+}
+::placeholder{
+    padding-left: 5%;
+    
+    padding-bottom: 2%;
+   
+    font-family: sans-serif;
+    color: black;
+   
+}
+.button {
+padding-top: 0.6%;
+padding-bottom: 1.5%;
+padding-left: 2%;
+padding-right: 2%;
+margin-left: -0.6%;
+font-size: 30px;
+background-color: #fa8b9e;
+cursor: pointer;
+}
+
+.copyright{
+    font-family: sans-serif;
+    font-size:20px
+}
+
